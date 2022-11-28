@@ -35,3 +35,10 @@ C:\Development\HTWG\Source\Dojo\Tests\bin\Debug\Specifications.pdb
 C:\Development\HTWG\Source\Dojo\Specifications\obj\Debug\Specifications.csprojAssemblyReference.cache
 C:\Development\HTWG\Source\Dojo\Specifications\obj\Debug\Specifications.csproj.CoreCompileInputs.cache
 C:\Development\HTWG\Source\Dojo\Specifications\obj\Debug\Specifications.csproj.CopyComplete
+Z:\software-development-project\Tests\bin\Debug\Specifications.dll
+Z:\software-development-project\Tests\bin\Debug\Specifications.pdb
+Z:\software-development-project\Specifications\obj\Debug\Specifications.csproj.AssemblyReference.cache
+Z:\software-development-project\Specifications\obj\Debug\Specifications.csproj.CoreCompileInputs.cache
+Z:\software-development-project\Specifications\obj\Debug\Specifications.csproj.CopyComplete
+Z:\software-development-project\Specifications\obj\Debug\Specifications.dll
+Z:\software-development-project\Specifications\obj\Debug\Specifications.pdb

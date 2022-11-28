@@ -7,3 +7,14 @@ C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.pdb
 C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.csprojAssemblyReference.cache
 C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.CoreCompileInputs.cache
 C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.CopyComplete
+Z:\software-development-project\SampleCodeRunner\bin\Debug\SampleCodeRunner.exe.config
+Z:\software-development-project\SampleCodeRunner\bin\Debug\SampleCodeRunner.exe
+Z:\software-development-project\SampleCodeRunner\bin\Debug\SampleCodeRunner.pdb
+Z:\software-development-project\SampleCodeRunner\bin\Debug\SampleCodes.dll
+Z:\software-development-project\SampleCodeRunner\bin\Debug\SampleCodes.pdb
+Z:\software-development-project\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.AssemblyReference.cache
+Z:\software-development-project\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.SuggestedBindingRedirects.cache
+Z:\software-development-project\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.CopyComplete
+Z:\software-development-project\SampleCodeRunner\obj\Debug\SampleCodeRunner.exe
+Z:\software-development-project\SampleCodeRunner\obj\Debug\SampleCodeRunner.pdb

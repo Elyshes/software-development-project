@@ -22,3 +22,10 @@ C:\Development\HTWG\Source\Dojo\Tests\bin\Debug\Testing.ServiceLayer.Adapter.pdb
 C:\Development\HTWG\Source\Dojo\Testing.ServiceLayer.Adapter\obj\Debug\ServiceLayer.Adapter.csprojAssemblyReference.cache
 C:\Development\HTWG\Source\Dojo\Testing.ServiceLayer.Adapter\obj\Debug\ServiceLayer.Adapter.csproj.CoreCompileInputs.cache
 C:\Development\HTWG\Source\Dojo\Testing.ServiceLayer.Adapter\obj\Debug\ServiceLayer.Adapter.csproj.CopyComplete
+Z:\software-development-project\Tests\bin\Debug\Testing.ServiceLayer.Adapter.dll
+Z:\software-development-project\Tests\bin\Debug\Testing.ServiceLayer.Adapter.pdb
+Z:\software-development-project\Testing.ServiceLayer.Adapter\obj\Debug\ServiceLayer.Adapter.csproj.AssemblyReference.cache
+Z:\software-development-project\Testing.ServiceLayer.Adapter\obj\Debug\ServiceLayer.Adapter.csproj.CoreCompileInputs.cache
+Z:\software-development-project\Testing.ServiceLayer.Adapter\obj\Debug\ServiceLayer.Adapter.csproj.CopyComplete
+Z:\software-development-project\Testing.ServiceLayer.Adapter\obj\Debug\Testing.ServiceLayer.Adapter.dll
+Z:\software-development-project\Testing.ServiceLayer.Adapter\obj\Debug\Testing.ServiceLayer.Adapter.pdb

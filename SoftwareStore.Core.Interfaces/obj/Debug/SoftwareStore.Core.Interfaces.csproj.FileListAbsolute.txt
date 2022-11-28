@@ -7,3 +7,12 @@ C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\Software
 C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csprojAssemblyReference.cache
 C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.CoreCompileInputs.cache
 C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.CopyComplete
+Z:\software-development-project\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.Interfaces.dll
+Z:\software-development-project\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.Interfaces.pdb
+Z:\software-development-project\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.dll
+Z:\software-development-project\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.pdb
+Z:\software-development-project\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.AssemblyReference.cache
+Z:\software-development-project\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.CopyComplete
+Z:\software-development-project\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.dll
+Z:\software-development-project\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.pdb

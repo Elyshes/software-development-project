@@ -3,3 +3,9 @@ C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\bin\Debug\SoftwareStore.Core.
 C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.dll
 C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.pdb
 C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SoftwareStore.Core\bin\Debug\SoftwareStore.Core.dll
+Z:\software-development-project\SoftwareStore.Core\bin\Debug\SoftwareStore.Core.pdb
+Z:\software-development-project\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.csproj.AssemblyReference.cache
+Z:\software-development-project\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.dll
+Z:\software-development-project\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.pdb

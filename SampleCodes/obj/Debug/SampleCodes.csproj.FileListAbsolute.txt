@@ -3,3 +3,9 @@ C:\Development\HTWG\Source\Dojo\SampleCodes\bin\Debug\SampleCodes.pdb
 C:\Development\HTWG\Source\Dojo\SampleCodes\obj\Debug\SampleCodes.dll
 C:\Development\HTWG\Source\Dojo\SampleCodes\obj\Debug\SampleCodes.pdb
 C:\Development\HTWG\Source\Dojo\SampleCodes\obj\Debug\SampleCodes.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SampleCodes\bin\Debug\SampleCodes.dll
+Z:\software-development-project\SampleCodes\bin\Debug\SampleCodes.pdb
+Z:\software-development-project\SampleCodes\obj\Debug\SampleCodes.csproj.AssemblyReference.cache
+Z:\software-development-project\SampleCodes\obj\Debug\SampleCodes.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SampleCodes\obj\Debug\SampleCodes.dll
+Z:\software-development-project\SampleCodes\obj\Debug\SampleCodes.pdb

@@ -12,3 +12,9 @@ C:\Development\HTWG\Source\Dojo\Testing.Contract\obj\Debug\Testing.Contract.pdb
 C:\Development\HTWG\Source\Dojo\Tests\bin\Debug\Testing.Contract.dll
 C:\Development\HTWG\Source\Dojo\Tests\bin\Debug\Testing.Contract.pdb
 C:\Development\HTWG\Source\Dojo\Testing.Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+Z:\software-development-project\Tests\bin\Debug\Testing.Contract.dll
+Z:\software-development-project\Tests\bin\Debug\Testing.Contract.pdb
+Z:\software-development-project\Testing.Contract\obj\Debug\Contract.csproj.AssemblyReference.cache
+Z:\software-development-project\Testing.Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache
+Z:\software-development-project\Testing.Contract\obj\Debug\Testing.Contract.dll
+Z:\software-development-project\Testing.Contract\obj\Debug\Testing.Contract.pdb

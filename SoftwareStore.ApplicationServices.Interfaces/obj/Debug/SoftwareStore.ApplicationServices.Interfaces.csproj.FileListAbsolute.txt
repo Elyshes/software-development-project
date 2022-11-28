@@ -3,3 +3,9 @@ C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\bin
 C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.dll
 C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.pdb
 C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SoftwareStore.ApplicationServices.Interfaces\bin\Debug\SoftwareStore.ApplicationServices.Interfaces.dll
+Z:\software-development-project\SoftwareStore.ApplicationServices.Interfaces\bin\Debug\SoftwareStore.ApplicationServices.Interfaces.pdb
+Z:\software-development-project\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.csproj.AssemblyReference.cache
+Z:\software-development-project\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.csproj.CoreCompileInputs.cache
+Z:\software-development-project\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.dll
+Z:\software-development-project\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.pdb
