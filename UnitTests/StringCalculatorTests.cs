@@ -29,15 +29,24 @@
         [InlineData("1", 1)]
         [InlineData("", -1)]
         [InlineData("100,200", 300)]
-        [InlineData("2,3,80,980", 1065)]
-        [InlineData("6*9", 54)]
-        [InlineData("4*3*0", 0)]
+
         public void WhenAddMulitpleNumbers(string numbers, int expectedresult)
         {
-            var result = objectUnderTest.Add(numbers);
+            var result = objectUnderTest.calculate(numbers, new Add());
 
             result.Should().Be(expectedresult);
         }
 
+        [Theory]
+        [InlineData("2,3", 6)]
+        [InlineData("1", 1)]
+        [InlineData("", -1)]
+        [InlineData("100,200", 20000)]
+        public void WhenMultiplyMulitpleNumbers(string numbers, int expectedresult)
+        {
+            var result = objectUnderTest.calculate(numbers, new Multiply());
+
+            result.Should().Be(expectedresult);
+        }
     }
 }

@@ -9,3 +9,9 @@ Z:\Dojo\Dojo\StringCalculator\obj\Debug\StringCalculator.csproj.AssemblyReferenc
 Z:\Dojo\Dojo\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
 Z:\Dojo\Dojo\StringCalculator\obj\Debug\Calculators.dll
 Z:\Dojo\Dojo\StringCalculator\obj\Debug\Calculators.pdb
+Z:\software-development-project\StringCalculator\bin\Debug\Calculators.dll
+Z:\software-development-project\StringCalculator\bin\Debug\Calculators.pdb
+Z:\software-development-project\StringCalculator\obj\Debug\StringCalculator.csproj.AssemblyReference.cache
+Z:\software-development-project\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache
+Z:\software-development-project\StringCalculator\obj\Debug\Calculators.dll
+Z:\software-development-project\StringCalculator\obj\Debug\Calculators.pdb
