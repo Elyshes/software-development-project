@@ -1,0 +1,5 @@
+C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\bin\Debug\SoftwareStore.ApplicationServices.Interfaces.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\bin\Debug\SoftwareStore.ApplicationServices.Interfaces.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.ApplicationServices.Interfaces\obj\Debug\SoftwareStore.ApplicationServices.Interfaces.csproj.CoreCompileInputs.cache

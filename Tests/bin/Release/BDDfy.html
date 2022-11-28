@@ -1,0 +1,283 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'/>
+    <link href='BDDfy.css' rel='stylesheet'/>
+    <script type='text/javascript' src='jquery-1.7.1.min.js'></script>
+    <script type='text/javascript' src='BDDfy.js'></script>
+    <title>BDDfy Test Result 11/6/2013</title>
+  </head>
+  <body>
+    <div id='main'>
+      <div class='header'>
+        <div id='BDDfyTitle'>BDDfy</div>
+        <div id='BDDfyDescription'>A simple BDD framework for .Net developers</div>
+      </div>
+      <section class='summary'>
+        <h3 class='label'>Summary:</h3>
+        <ul class='resultSummary'>
+          <li class='storySummary'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Stories</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='scenarioSummary'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Scenarios</div>
+              <span class='summaryCount'>6</span>
+            </div>
+          </li>
+          <li class='Passed'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Passed</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='Inconclusive'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Inconclusive</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='NotImplemented'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Not Implemented</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='Failed'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Failed</div>
+              <span class='summaryCount'>6</span>
+            </div>
+          </li>
+        </ul>
+      </section>
+      <div id='testResult'>
+        <div id='detailsHeader'>
+          <h3 id='detailsLable'>Details:</h3>
+          <div id='expandCollapse'>
+            <a href='#' class='expandAll'>[expand all]</a>
+            <a href='#' class='collapseAll'>[collapse all]</a>
+          </div>
+        </div>
+        <ul class='testResult'>
+          <li>
+            <div class='story Failed'>
+              <div class='storyMetaData'>
+                <div class='namespaceName'>Specifications</div>
+              </div>
+              <div class='scenarios'>
+                <div class='scenario'>
+                  <div class='Failed canToggle scenarioTitle' data-toggle-target='f97f28bd-3032-4876-a69d-c029d133012f'>Add new book</div>
+                  <ul class='steps' id='f97f28bd-3032-4876-a69d-c029d133012f'>
+                    <li class='step Passed  Transition ' data-toggle-target='c06d5f64-8f95-4e43-b96a-0c833b404b13' >
+                      <span>When the book is added Title: Willi Winzig der Held; ISBN: 23242-FEWGEWDw</span>
+                    </li>
+                    <li class='step Failed  Assertion canToggle' data-toggle-target='4fd4a3f4-0818-48c6-927e-f178a2d30cfd' >
+                      <span>Then the book is available in the bookstore Title: Willi Winzig der Held; ISBN: 23242-FEWGEWDw [Exception Message: 'Expected collection {empty} to contain Title: Willi Winzig der Held; ISBN: 23242-FEWGEWDw.']</span>
+                      <div class='step FailedException' id='4fd4a3f4-0818-48c6-927e-f178a2d30cfd'>
+                        <code>   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String failureMessage, Object[] failureArgs)
+   at FluentAssertions.Collections.GenericCollectionAssertions`1.Contain(T expected, String reason, Object[] reasonArgs)
+   at Specifications.AddABook.ThenTheBookIsAvailableInTheBookstore(Book book) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 107
+   at lambda_method(Closure , AddABook )
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<>c__DisplayClassa.<GetStepAction>b__7()
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.Run(Func`1 func)
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<GetStepAction>b__6(Object o)
+   at TestStack.BDDfy.Core.ExecutionStep.Execute(Object testObject)
+   at TestStack.BDDfy.Core.Scenario.ExecuteStep(ExecutionStep executionStep)
+   at TestStack.BDDfy.Processors.ExceptionProcessor.Process(Story story)
+   at TestStack.BDDfy.Core.Engine.Run()
+   at Specifications.AddABook.AddNewBook(String title, String isbn) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 37$$RethrowMarker$$   at Xunit.Sdk.ExceptionUtility.RethrowWithNoStackTraceLoss(Exception ex)
+   at Xunit.Extensions.TheoryCommand.Execute(Object testClass)</code>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Failed canToggle scenarioTitle' data-toggle-target='f502dc85-d445-44bc-beda-062d15c01959'>Add new book</div>
+                  <ul class='steps' id='f502dc85-d445-44bc-beda-062d15c01959'>
+                    <li class='step Passed  Transition ' data-toggle-target='5926e88e-3da6-48c9-be96-1d984395f8c4' >
+                      <span>When the book is added Title: Sowieso klar; ISBN: 2341-FSDFDSDw</span>
+                    </li>
+                    <li class='step Failed  Assertion canToggle' data-toggle-target='270c4b19-4e84-415c-bdd2-a744f309385c' >
+                      <span>Then the book is available in the bookstore Title: Sowieso klar; ISBN: 2341-FSDFDSDw [Exception Message: 'Expected collection {empty} to contain Title: Sowieso klar; ISBN: 2341-FSDFDSDw.']</span>
+                      <div class='step FailedException' id='270c4b19-4e84-415c-bdd2-a744f309385c'>
+                        <code>   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String failureMessage, Object[] failureArgs)
+   at FluentAssertions.Collections.GenericCollectionAssertions`1.Contain(T expected, String reason, Object[] reasonArgs)
+   at Specifications.AddABook.ThenTheBookIsAvailableInTheBookstore(Book book) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 107
+   at lambda_method(Closure , AddABook )
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<>c__DisplayClassa.<GetStepAction>b__7()
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.Run(Func`1 func)
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<GetStepAction>b__6(Object o)
+   at TestStack.BDDfy.Core.ExecutionStep.Execute(Object testObject)
+   at TestStack.BDDfy.Core.Scenario.ExecuteStep(ExecutionStep executionStep)
+   at TestStack.BDDfy.Processors.ExceptionProcessor.Process(Story story)
+   at TestStack.BDDfy.Core.Engine.Run()
+   at Specifications.AddABook.AddNewBook(String title, String isbn) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 37$$RethrowMarker$$   at Xunit.Sdk.ExceptionUtility.RethrowWithNoStackTraceLoss(Exception ex)
+   at Xunit.Extensions.TheoryCommand.Execute(Object testClass)</code>
+                      </div>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Failed canToggle scenarioTitle' data-toggle-target='9e365c12-4ffe-4f2f-8499-4bef91040ddd'>Add new book with isbn which already exists</div>
+                  <ul class='steps' id='9e365c12-4ffe-4f2f-8499-4bef91040ddd'>
+                    <li class='step Passed  SetupState ' data-toggle-target='ab1cacf9-6750-4ffa-a633-c0aece356f82' >
+                      <span>Given the book is part of the book store Title: Harald Drodder; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='378a55e0-4a60-4b05-a46e-7dbabda57674' >
+                      <span>When the book with same property is added Title: Freilicht; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Failed  Assertion canToggle' data-toggle-target='9f1f99a9-1039-45de-a8d1-c8c33a221500' >
+                      <span>Then the book store complains about an already exsting isbn [Exception Message: 'Expected Bookstore.Core.IsbnAlreadyExistsException, but no exception was thrown.']</span>
+                      <div class='step FailedException' id='9f1f99a9-1039-45de-a8d1-c8c33a221500'>
+                        <code>   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String failureMessage, Object[] failureArgs)
+   at FluentAssertions.Specialized.ActionAssertions.ShouldThrow[TException](String reason, Object[] reasonArgs)
+   at FluentAssertions.ExceptionExtensionsNet40.ShouldThrow[TException](Action action, String reason, Object[] reasonArgs)
+   at Specifications.AddABook.ThenTheBookStoreComplainsAboutAnAlreadyExstingIsbn() in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 82
+   at lambda_method(Closure , AddABook )
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<>c__DisplayClassa.<GetStepAction>b__7()
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.Run(Func`1 func)
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<GetStepAction>b__6(Object o)
+   at TestStack.BDDfy.Core.ExecutionStep.Execute(Object testObject)
+   at TestStack.BDDfy.Core.Scenario.ExecuteStep(ExecutionStep executionStep)
+   at TestStack.BDDfy.Processors.ExceptionProcessor.Process(Story story)
+   at TestStack.BDDfy.Core.Engine.Run()
+   at Specifications.AddABook.AddNewBookWithIsbnWhichAlreadyExists(String titleOfExistingBook, String titleOfBookToAdd, String isbn) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 49$$RethrowMarker$$   at Xunit.Sdk.ExceptionUtility.RethrowWithNoStackTraceLoss(Exception ex)
+   at Xunit.Extensions.TheoryCommand.Execute(Object testClass)</code>
+                      </div>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='ca6e83f0-a732-4783-a0d0-0c68c00d87ca' >
+                      <span>Then the book is not available Title: Freilicht; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Failed canToggle scenarioTitle' data-toggle-target='8c17173a-0a3e-47da-baad-851b9c8524b8'>Add new book with isbn which already exists</div>
+                  <ul class='steps' id='8c17173a-0a3e-47da-baad-851b9c8524b8'>
+                    <li class='step Passed  SetupState ' data-toggle-target='d0161ff5-4005-4175-a066-17015eb064c9' >
+                      <span>Given the book is part of the book store Title: Lieb und Herzschmerz; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='dbc1d77f-0846-4b37-ac46-03527448d1c0' >
+                      <span>When the book with same property is added Title: So was kann es geben; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Failed  Assertion canToggle' data-toggle-target='a9ee5c83-25fb-45fe-bf1a-5be9da54917e' >
+                      <span>Then the book store complains about an already exsting isbn [Exception Message: 'Expected Bookstore.Core.IsbnAlreadyExistsException, but no exception was thrown.']</span>
+                      <div class='step FailedException' id='a9ee5c83-25fb-45fe-bf1a-5be9da54917e'>
+                        <code>   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String failureMessage, Object[] failureArgs)
+   at FluentAssertions.Specialized.ActionAssertions.ShouldThrow[TException](String reason, Object[] reasonArgs)
+   at FluentAssertions.ExceptionExtensionsNet40.ShouldThrow[TException](Action action, String reason, Object[] reasonArgs)
+   at Specifications.AddABook.ThenTheBookStoreComplainsAboutAnAlreadyExstingIsbn() in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 82
+   at lambda_method(Closure , AddABook )
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<>c__DisplayClassa.<GetStepAction>b__7()
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.Run(Func`1 func)
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<GetStepAction>b__6(Object o)
+   at TestStack.BDDfy.Core.ExecutionStep.Execute(Object testObject)
+   at TestStack.BDDfy.Core.Scenario.ExecuteStep(ExecutionStep executionStep)
+   at TestStack.BDDfy.Processors.ExceptionProcessor.Process(Story story)
+   at TestStack.BDDfy.Core.Engine.Run()
+   at Specifications.AddABook.AddNewBookWithIsbnWhichAlreadyExists(String titleOfExistingBook, String titleOfBookToAdd, String isbn) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 49$$RethrowMarker$$   at Xunit.Sdk.ExceptionUtility.RethrowWithNoStackTraceLoss(Exception ex)
+   at Xunit.Extensions.TheoryCommand.Execute(Object testClass)</code>
+                      </div>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='0b7f6f9c-4714-414a-b2a6-cfb4f82f2f84' >
+                      <span>Then the book is not available Title: So was kann es geben; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Failed canToggle scenarioTitle' data-toggle-target='098704c0-cc77-47fe-9ed3-ddf02bf63baa'>Add new book with title which already exists with different isbn</div>
+                  <ul class='steps' id='098704c0-cc77-47fe-9ed3-ddf02bf63baa'>
+                    <li class='step Passed  SetupState ' data-toggle-target='03ce029e-a4d8-48e3-83c5-569d3d9f99ac' >
+                      <span>Given the book is part of the book store Title: Mord ist auch keine Loesung; ISBN: 87678-ZXCXZSF</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='0ccadf22-3e3d-4571-aeb8-8d3168b3d238' >
+                      <span>When the book with same property is added Title: Mord ist auch keine Loesung; ISBN: 657657-FUIOIU</span>
+                    </li>
+                    <li class='step Failed  Assertion canToggle' data-toggle-target='27b230b8-e8c9-4019-8f5c-442d005323a7' >
+                      <span>Then the book store complains about an book with same title but different isbn [Exception Message: 'Expected object to be <null>, but found 
+
+Specifications.AddABook
+{
+}.']</span>
+                      <div class='step FailedException' id='27b230b8-e8c9-4019-8f5c-442d005323a7'>
+                        <code>   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String failureMessage, Object[] failureArgs)
+   at FluentAssertions.Primitives.ReferenceTypeAssertions`2.BeNull(String reason, Object[] reasonArgs)
+   at Specifications.AddABook.ThenTheBookStoreComplainsAboutAnBookWithSameTitleButDifferentIsbn() in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 77
+   at lambda_method(Closure , AddABook )
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<>c__DisplayClassa.<GetStepAction>b__7()
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.Run(Func`1 func)
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<GetStepAction>b__6(Object o)
+   at TestStack.BDDfy.Core.ExecutionStep.Execute(Object testObject)
+   at TestStack.BDDfy.Core.Scenario.ExecuteStep(ExecutionStep executionStep)
+   at TestStack.BDDfy.Processors.ExceptionProcessor.Process(Story story)
+   at TestStack.BDDfy.Core.Engine.Run()
+   at Specifications.AddABook.AddNewBookWithTitleWhichAlreadyExistsWithDifferentIsbn(String title, String isbnOfExistingBook, String isbnOfBookToAdd) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 67$$RethrowMarker$$   at Xunit.Sdk.ExceptionUtility.RethrowWithNoStackTraceLoss(Exception ex)
+   at Xunit.Extensions.TheoryCommand.Execute(Object testClass)</code>
+                      </div>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='503cb022-b627-48fc-b2ca-4ca256be593b' >
+                      <span>Then the book is not available Title: Mord ist auch keine Loesung; ISBN: 657657-FUIOIU</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Failed canToggle scenarioTitle' data-toggle-target='6a84460c-f9c7-4248-9578-313d4065943a'>Add new book with title which already exists with different isbn</div>
+                  <ul class='steps' id='6a84460c-f9c7-4248-9578-313d4065943a'>
+                    <li class='step Passed  SetupState ' data-toggle-target='76e1e915-c992-49e8-9bd3-a535137927cb' >
+                      <span>Given the book is part of the book store Title: Oma kann es nicht lassen; ISBN: 21321-SDFDSF</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='d132acf5-4861-4ed8-9d5b-bd62ab4c1fb8' >
+                      <span>When the book with same property is added Title: Oma kann es nicht lassen; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Failed  Assertion canToggle' data-toggle-target='8e94e4b3-7761-4b0b-969f-38757f1976f0' >
+                      <span>Then the book store complains about an book with same title but different isbn [Exception Message: 'Expected object to be <null>, but found 
+
+Specifications.AddABook
+{
+}.']</span>
+                      <div class='step FailedException' id='8e94e4b3-7761-4b0b-969f-38757f1976f0'>
+                        <code>   at FluentAssertions.Execution.LateBoundTestFramework.Throw(String message)
+   at FluentAssertions.Execution.DefaultAssertionStrategy.HandleFailure(String message)
+   at FluentAssertions.Execution.AssertionScope.FailWith(String failureMessage, Object[] failureArgs)
+   at FluentAssertions.Primitives.ReferenceTypeAssertions`2.BeNull(String reason, Object[] reasonArgs)
+   at Specifications.AddABook.ThenTheBookStoreComplainsAboutAnBookWithSameTitleButDifferentIsbn() in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 77
+   at lambda_method(Closure , AddABook )
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<>c__DisplayClassa.<GetStepAction>b__7()
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.Run(Func`1 func)
+   at TestStack.BDDfy.Scanners.StepScanners.StepActionFactory.<>c__DisplayClass8`1.<GetStepAction>b__6(Object o)
+   at TestStack.BDDfy.Core.ExecutionStep.Execute(Object testObject)
+   at TestStack.BDDfy.Core.Scenario.ExecuteStep(ExecutionStep executionStep)
+   at TestStack.BDDfy.Processors.ExceptionProcessor.Process(Story story)
+   at TestStack.BDDfy.Core.Engine.Run()
+   at Specifications.AddABook.AddNewBookWithTitleWhichAlreadyExistsWithDifferentIsbn(String title, String isbnOfExistingBook, String isbnOfBookToAdd) in c:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\AddABook.cs:line 67$$RethrowMarker$$   at Xunit.Sdk.ExceptionUtility.RethrowWithNoStackTraceLoss(Exception ex)
+   at Xunit.Extensions.TheoryCommand.Execute(Object testClass)</code>
+                      </div>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='2981937f-ca23-4c0e-923f-bdf67d8461ce' >
+                      <span>Then the book is not available Title: Oma kann es nicht lassen; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <p><span>Tested at: 11/6/2013 11:55:07 AM</span></p>
+      </div>
+    </div>
+    <div class='footer'>Powered by <a href='https://github.com/TestStack/TestStack.BDDfy'>BDDfy</a> framework</div>
+  </body>
+</html>

@@ -1,0 +1,5 @@
+C:\Development\HTWG\Source\Dojo\StringCalculator\bin\Debug\Calculators.dll
+C:\Development\HTWG\Source\Dojo\StringCalculator\bin\Debug\Calculators.pdb
+C:\Development\HTWG\Source\Dojo\StringCalculator\obj\Debug\Calculators.dll
+C:\Development\HTWG\Source\Dojo\StringCalculator\obj\Debug\Calculators.pdb
+C:\Development\HTWG\Source\Dojo\StringCalculator\obj\Debug\StringCalculator.csproj.CoreCompileInputs.cache

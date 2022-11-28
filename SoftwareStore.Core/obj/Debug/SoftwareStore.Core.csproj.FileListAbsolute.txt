@@ -1,0 +1,5 @@
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\bin\Debug\SoftwareStore.Core.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\bin\Debug\SoftwareStore.Core.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core\obj\Debug\SoftwareStore.Core.csproj.CoreCompileInputs.cache

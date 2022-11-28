@@ -1,0 +1,16 @@
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.DataAccess.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.DataAccess.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SimpleInjector.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SimpleInjector.Packaging.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.Core.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.Core.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SimpleInjector.xml
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SimpleInjector.Packaging.xml
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\obj\Debug\SoftwareStore.DataAccess.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\obj\Debug\SoftwareStore.DataAccess.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.DataAccess.dll.config
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.Core.Interfaces.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\bin\Debug\SoftwareStore.Core.Interfaces.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\obj\Debug\SoftwareStore.DataAccess.csprojAssemblyReference.cache
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\obj\Debug\SoftwareStore.DataAccess.csproj.CoreCompileInputs.cache
+C:\Development\HTWG\Source\Dojo\SoftwareStore.DataAccess\obj\Debug\SoftwareStore.DataAccess.csproj.CopyComplete

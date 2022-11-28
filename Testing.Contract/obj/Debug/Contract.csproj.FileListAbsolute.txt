@@ -1,0 +1,14 @@
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\bin\Debug\Testing.Contract.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\bin\Debug\Testing.Contract.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\bin\Debug\Bookstore.Core.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\bin\Debug\Bookstore.Services.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\bin\Debug\Bookstore.Services.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\bin\Debug\Bookstore.Core.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\obj\Debug\Contract.csprojResolveAssemblyReference.cache
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\obj\Debug\Testing.Contract.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.Contract\obj\Debug\Testing.Contract.pdb
+C:\Development\HTWG\Source\Dojo\Testing.Contract\obj\Debug\Testing.Contract.dll
+C:\Development\HTWG\Source\Dojo\Testing.Contract\obj\Debug\Testing.Contract.pdb
+C:\Development\HTWG\Source\Dojo\Tests\bin\Debug\Testing.Contract.dll
+C:\Development\HTWG\Source\Dojo\Tests\bin\Debug\Testing.Contract.pdb
+C:\Development\HTWG\Source\Dojo\Testing.Contract\obj\Debug\Contract.csproj.CoreCompileInputs.cache

@@ -1,0 +1,15 @@
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Testing.UILayer.Adapter.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Testing.UILayer.Adapter.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Bookstore.Core.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Bookstore.Services.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Testing.Contract.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Bookstore.Services.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Bookstore.Core.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\Testing.Contract.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\obj\Debug\UILayer.Adapter.csprojResolveAssemblyReference.cache
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\obj\Debug\Testing.UILayer.Adapter.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\obj\Debug\Testing.UILayer.Adapter.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\KS.Core.Testing.UserInterfaceAutomation.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\TestApiCore.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\KS.Core.Testing.UserInterfaceAutomation.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\bin\Debug\TestApiCore.xml

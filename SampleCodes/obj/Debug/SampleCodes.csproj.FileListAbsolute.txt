@@ -1,0 +1,5 @@
+C:\Development\HTWG\Source\Dojo\SampleCodes\bin\Debug\SampleCodes.dll
+C:\Development\HTWG\Source\Dojo\SampleCodes\bin\Debug\SampleCodes.pdb
+C:\Development\HTWG\Source\Dojo\SampleCodes\obj\Debug\SampleCodes.dll
+C:\Development\HTWG\Source\Dojo\SampleCodes\obj\Debug\SampleCodes.pdb
+C:\Development\HTWG\Source\Dojo\SampleCodes\obj\Debug\SampleCodes.csproj.CoreCompileInputs.cache

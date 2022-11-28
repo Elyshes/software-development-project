@@ -1,0 +1,5 @@
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Tests\bin\Release\Specifications.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Tests\bin\Release\Specifications.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\obj\Release\Specifications.csprojResolveAssemblyReference.cache
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\obj\Release\Specifications.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Specifications\obj\Release\Specifications.pdb

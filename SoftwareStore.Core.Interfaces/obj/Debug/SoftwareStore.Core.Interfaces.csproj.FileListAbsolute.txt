@@ -1,0 +1,9 @@
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.Interfaces.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.Interfaces.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\bin\Debug\SoftwareStore.Core.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csprojAssemblyReference.cache
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.CoreCompileInputs.cache
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Interfaces\obj\Debug\SoftwareStore.Core.Interfaces.csproj.CopyComplete

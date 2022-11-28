@@ -1,0 +1,9 @@
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\bin\Debug\SampleCodeRunner.exe
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\bin\Debug\SampleCodeRunner.pdb
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\bin\Debug\SampleCodes.dll
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\bin\Debug\SampleCodes.pdb
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.exe
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.pdb
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.csprojAssemblyReference.cache
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.CoreCompileInputs.cache
+C:\Development\HTWG\Source\Dojo\SampleCodeRunner\obj\Debug\SampleCodeRunner.csproj.CopyComplete

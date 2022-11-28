@@ -1,0 +1,5 @@
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Tests\bin\Release\Testing.ServiceLayer.Adapter.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Tests\bin\Release\Testing.ServiceLayer.Adapter.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.ServiceLayer.Adapter\obj\Release\ServiceLayer.Adapter.csprojResolveAssemblyReference.cache
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.ServiceLayer.Adapter\obj\Release\Testing.ServiceLayer.Adapter.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.ServiceLayer.Adapter\obj\Release\Testing.ServiceLayer.Adapter.pdb

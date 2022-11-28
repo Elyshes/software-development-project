@@ -1,0 +1,13 @@
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\Bookstore.DataAccess.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\Bookstore.DataAccess.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\Bookstore.Core.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\Bookstore.Services.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\SimpleInjector.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\SimpleInjector.Packaging.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\Bookstore.Services.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\Bookstore.Core.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\SimpleInjector.xml
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\bin\Debug\SimpleInjector.Packaging.xml
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\obj\Debug\Bookstore.DataAccess.csprojResolveAssemblyReference.cache
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\obj\Debug\Bookstore.DataAccess.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Bookstore.DataAccess\obj\Debug\Bookstore.DataAccess.pdb

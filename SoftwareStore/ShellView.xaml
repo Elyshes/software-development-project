@@ -1,0 +1,27 @@
+﻿<Window x:Class="SoftwareStore.ShellView"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:cal="clr-namespace:Caliburn.Micro;assembly=Caliburn.Micro"
+        ResizeMode="NoResize"
+        AutomationProperties.AutomationId="Bookstore" 
+        Title="Bookstore" Height="500" Width="400">
+    <Grid>
+        <Grid.ColumnDefinitions>
+          <ColumnDefinition Width="200"/>
+          <ColumnDefinition Width="200"/>
+        </Grid.ColumnDefinitions>
+
+
+      <StackPanel Grid.Column="0">
+
+        <Label Content="Software Beschreibung" />
+        <TextBox x:Name="Beschreibung"/>
+
+        <Button x:Name="AddSoftware" Content="Software" Margin="0.3" AutomationProperties.AutomationId="AddBook" cal:Message.Attach="[Event Click] = [Action AddBook(Beschreibung.Text)]"/>
+
+      </StackPanel>
+
+      <ListBox x:Name="Books" Grid.Column="1" AutomationProperties.AutomationId="Books"/>
+      
+    </Grid>
+</Window>

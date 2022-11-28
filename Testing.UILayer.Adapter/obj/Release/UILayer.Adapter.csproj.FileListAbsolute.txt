@@ -1,0 +1,5 @@
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Tests\bin\Release\Testing.UILayer.Adapter.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Tests\bin\Release\Testing.UILayer.Adapter.pdb
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\obj\Release\UILayer.Adapter.csprojResolveAssemblyReference.cache
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\obj\Release\Testing.UILayer.Adapter.dll
+C:\Development\Tmp\RemoteService\OR1\Spikes\XPDays\Dojo\Testing.UILayer.Adapter\obj\Release\Testing.UILayer.Adapter.pdb

@@ -1,0 +1,7 @@
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\bin\Debug\SoftwareStore.Core.Contract.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\bin\Debug\SoftwareStore.Core.Contract.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\bin\Debug\SoftwareStore.Core.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\bin\Debug\SoftwareStore.Core.pdb
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\obj\Debug\SoftwareStore.Core.Contract.csprojResolveAssemblyReference.cache
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\obj\Debug\SoftwareStore.Core.Contract.dll
+C:\Development\HTWG\Source\Dojo\SoftwareStore.Core.Contract\obj\Debug\SoftwareStore.Core.Contract.pdb

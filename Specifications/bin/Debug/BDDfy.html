@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset='utf-8'/>
+    <link href='BDDfy.css' rel='stylesheet'/>
+    <script type='text/javascript' src='jquery-1.7.1.min.js'></script>
+    <script type='text/javascript' src='BDDfy.js'></script>
+    <title>BDDfy Test Result 11/6/2013</title>
+  </head>
+  <body>
+    <div id='main'>
+      <div class='header'>
+        <div id='BDDfyTitle'>BDDfy</div>
+        <div id='BDDfyDescription'>A simple BDD framework for .Net developers</div>
+      </div>
+      <section class='summary'>
+        <h3 class='label'>Summary:</h3>
+        <ul class='resultSummary'>
+          <li class='storySummary'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Stories</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='scenarioSummary'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Scenarios</div>
+              <span class='summaryCount'>6</span>
+            </div>
+          </li>
+          <li class='Passed'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Passed</div>
+              <span class='summaryCount'>6</span>
+            </div>
+          </li>
+          <li class='Inconclusive'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Inconclusive</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='NotImplemented'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Not Implemented</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+          <li class='Failed'>
+            <div class='summaryLine'>
+              <div class='summaryLabel'>Failed</div>
+              <span class='summaryCount'>0</span>
+            </div>
+          </li>
+        </ul>
+      </section>
+      <div id='testResult'>
+        <div id='detailsHeader'>
+          <h3 id='detailsLable'>Details:</h3>
+          <div id='expandCollapse'>
+            <a href='#' class='expandAll'>[expand all]</a>
+            <a href='#' class='collapseAll'>[collapse all]</a>
+          </div>
+        </div>
+        <ul class='testResult'>
+          <li>
+            <div class='story Passed'>
+              <div class='storyMetaData'>
+                <div class='namespaceName'>Specifications</div>
+              </div>
+              <div class='scenarios'>
+                <div class='scenario'>
+                  <div class='Passed canToggle scenarioTitle' data-toggle-target='8718b946-c442-45bc-b6ec-dde29c8fa51d'>Add new book</div>
+                  <ul class='steps' id='8718b946-c442-45bc-b6ec-dde29c8fa51d'>
+                    <li class='step Passed  Transition ' data-toggle-target='500d4e33-3884-4af4-90f1-a66e2ef6abba' >
+                      <span>When the book is added Title: Willi Winzig der Held; ISBN: 23242-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Assertion ' data-toggle-target='c3a2bc1e-c5a9-4302-9a1d-6362d9bcdb9e' >
+                      <span>Then the book is available in the bookstore Title: Willi Winzig der Held; ISBN: 23242-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Passed canToggle scenarioTitle' data-toggle-target='8ae18299-5377-4bc8-aaf8-d7beb1e1396f'>Add new book</div>
+                  <ul class='steps' id='8ae18299-5377-4bc8-aaf8-d7beb1e1396f'>
+                    <li class='step Passed  Transition ' data-toggle-target='03c72906-4dbe-4bac-816d-6bff0978e8b7' >
+                      <span>When the book is added Title: Sowieso klar; ISBN: 2341-FSDFDSDw</span>
+                    </li>
+                    <li class='step Passed  Assertion ' data-toggle-target='710393cc-a406-417d-9d77-da49d40b919a' >
+                      <span>Then the book is available in the bookstore Title: Sowieso klar; ISBN: 2341-FSDFDSDw</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Passed canToggle scenarioTitle' data-toggle-target='151523fc-5694-49b9-a5b6-30a45153f450'>Add new book with isbn which already exists</div>
+                  <ul class='steps' id='151523fc-5694-49b9-a5b6-30a45153f450'>
+                    <li class='step Passed  SetupState ' data-toggle-target='48aa7853-9430-453a-97e9-d9a50d93dc83' >
+                      <span>Given the book is part of the book store Title: Harald Drodder; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='be037395-eb9c-4de8-ac56-17e1d1dded12' >
+                      <span>When the book with same property is added Title: Freilicht; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Assertion ' data-toggle-target='93b357eb-146a-46a2-9bd0-383b9a4da3eb' >
+                      <span>Then the book store complains about an already exsting isbn</span>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='4b015fee-7bc5-4b7a-9b09-b77b164816ec' >
+                      <span>Then the book is not available Title: Freilicht; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Passed canToggle scenarioTitle' data-toggle-target='6035a772-fa00-4ec4-a782-176f1a2f82d2'>Add new book with isbn which already exists</div>
+                  <ul class='steps' id='6035a772-fa00-4ec4-a782-176f1a2f82d2'>
+                    <li class='step Passed  SetupState ' data-toggle-target='9f2beb8b-5d88-4271-89a8-d1d8a17a98ce' >
+                      <span>Given the book is part of the book store Title: Lieb und Herzschmerz; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='d891c36a-fa5a-4595-bb4b-93f677e31f38' >
+                      <span>When the book with same property is added Title: So was kann es geben; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Assertion ' data-toggle-target='2c620e2f-8c0b-4bad-9730-10705b57f358' >
+                      <span>Then the book store complains about an already exsting isbn</span>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='9a1beec5-9681-44a2-ad2e-67274cf25f61' >
+                      <span>Then the book is not available Title: So was kann es geben; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Passed canToggle scenarioTitle' data-toggle-target='182f2e83-6f6e-4e78-b8dd-dfc3d5ecddcf'>Add new book with title which already exists with different isbn</div>
+                  <ul class='steps' id='182f2e83-6f6e-4e78-b8dd-dfc3d5ecddcf'>
+                    <li class='step Passed  SetupState ' data-toggle-target='6816e0f8-5f45-4565-a59a-7469712774bd' >
+                      <span>Given the book is part of the book store Title: Mord ist auch keine Loesung; ISBN: 87678-ZXCXZSF</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='c36a535f-baef-4e90-ae0b-296263848f7e' >
+                      <span>When the book with same property is added Title: Mord ist auch keine Loesung; ISBN: 657657-FUIOIU</span>
+                    </li>
+                    <li class='step Passed  Assertion ' data-toggle-target='3f4b3e6d-eda6-4474-a670-48904821c657' >
+                      <span>Then the book store complains about an book with same title but different isbn</span>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='4617d7d7-113c-4bda-a89d-31812de164ca' >
+                      <span>Then the book is not available Title: Mord ist auch keine Loesung; ISBN: 657657-FUIOIU</span>
+                    </li>
+                  </ul>
+                </div>
+                <div class='scenario'>
+                  <div class='Passed canToggle scenarioTitle' data-toggle-target='9e791b19-993d-4ff4-a65a-f19b1b79df32'>Add new book with title which already exists with different isbn</div>
+                  <ul class='steps' id='9e791b19-993d-4ff4-a65a-f19b1b79df32'>
+                    <li class='step Passed  SetupState ' data-toggle-target='4deaa3d3-c0c5-472b-9f32-9e91be372eba' >
+                      <span>Given the book is part of the book store Title: Oma kann es nicht lassen; ISBN: 21321-SDFDSF</span>
+                    </li>
+                    <li class='step Passed  Transition ' data-toggle-target='57d665d5-8d1d-4f17-9c98-45d72935ea90' >
+                      <span>When the book with same property is added Title: Oma kann es nicht lassen; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                    <li class='step Passed  Assertion ' data-toggle-target='88b20c0e-1e3e-45d7-96ce-6c8923b30050' >
+                      <span>Then the book store complains about an book with same title but different isbn</span>
+                    </li>
+                    <li class='step Passed  ConsecutiveAssertion ' data-toggle-target='53833b69-9ba0-435b-9749-8913fd406033' >
+                      <span>Then the book is not available Title: Oma kann es nicht lassen; ISBN: 2341-FEWGEWDw</span>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+          </li>
+        </ul>
+        <p><span>Tested at: 11/6/2013 9:02:19 AM</span></p>
+      </div>
+    </div>
+    <div class='footer'>Powered by <a href='https://github.com/TestStack/TestStack.BDDfy'>BDDfy</a> framework</div>
+  </body>
+</html>
